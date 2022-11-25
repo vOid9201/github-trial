@@ -1,2 +1,4 @@
 I'm a new user of git just lerning it  : )
 Might be useful for me to properly understand this 
+
+Till now understanding the concept of git  : )
